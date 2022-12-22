@@ -1,7 +1,6 @@
 
 let player = {
-    name: prompt("Please Enter Your Name"),
-    chips: 0
+    name: prompt("Please Enter Your Name")
 }
 let cards = []
 let sum = 0
